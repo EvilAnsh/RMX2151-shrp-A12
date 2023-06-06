@@ -195,7 +195,7 @@ TARGET_USES_LOGD := true
 # Path of your SHRP Tree
 SHRP_PATH := device/realme/RMX2151
 # Maintainer name *
-SHRP_MAINTAINER := Gofaraway71
+SHRP_MAINTAINER := EvilAnsh
 # Device codename *
 SHRP_DEVICE_CODE := RMX2151
 # Recovery Type (It can be treble,normal,SAR) [Only for About Section] *
